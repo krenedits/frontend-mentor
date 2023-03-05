@@ -1,0 +1,3 @@
+[submodule "results-summary-component"]
+	path = results-summary-component
+	url = https://github.com/krenedits/results-summary-component.git
