@@ -1,3 +1,6 @@
 [submodule "results-summary-component"]
 	path = results-summary-component
 	url = https://github.com/krenedits/results-summary-component.git
+[submodule "ping-coming-soon-page-master"]
+	path = ping-coming-soon-page-master
+	url = https://github.com/krenedits/ping-single-column-coming-soon-page.git
