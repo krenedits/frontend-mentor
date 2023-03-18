@@ -4,3 +4,6 @@
 [submodule "ping-coming-soon-page-master"]
 	path = ping-coming-soon-page-master
 	url = https://github.com/krenedits/ping-single-column-coming-soon-page.git
+[submodule "rest-countries"]
+	path = rest-countries
+	url = https://github.com/krenedits/rest-countries.git
