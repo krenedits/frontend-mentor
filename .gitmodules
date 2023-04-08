@@ -7,3 +7,6 @@
 [submodule "rest-countries"]
 	path = rest-countries
 	url = https://github.com/krenedits/rest-countries.git
+[submodule "advice-generator"]
+	path = advice-generator
+	url = https://github.com/krenedits/advice-generator.git
