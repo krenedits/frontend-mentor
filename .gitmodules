@@ -10,3 +10,6 @@
 [submodule "advice-generator"]
 	path = advice-generator
 	url = https://github.com/krenedits/advice-generator.git
+[submodule "ip-address-tracker-master"]
+	path = ip-address-tracker-master
+	url = https://github.com/krenedits/ip-address-tracker.git
