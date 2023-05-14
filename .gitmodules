@@ -13,3 +13,6 @@
 [submodule "ip-address-tracker-master"]
 	path = ip-address-tracker-master
 	url = https://github.com/krenedits/ip-address-tracker.git
+[submodule "interactive-comment-section"]
+	path = interactive-comment-section
+	url = https://github.com/krenedits/interactive-comment-section.git
